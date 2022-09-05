@@ -1,7 +1,7 @@
 class Dog
 {
 private:
-    /* data */
+    int leg;
 public:
     Dog(/* args */);
     ~Dog();
