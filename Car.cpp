@@ -1,7 +1,9 @@
 class Car
 {
 private:
-    /* data */
+    int wheel;
+    int speed;
+    
 public:
     Car(/* args */);
     ~Car();
